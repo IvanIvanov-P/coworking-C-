@@ -1,0 +1,5 @@
+﻿  ConverterMitoKm.cpp
+  Hello World.cpp
+  Создание кода...
+Hello World.obj : error LNK2005: main уже определен в ConverterMitoKm.obj
+C:\Users\user\Source\Repos\coworking-C-\ConverterMitoKm\x64\Debug\ConverterMitoKm.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
